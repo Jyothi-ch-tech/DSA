@@ -56,4 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Jyothi-ch-tech/DSA/tree/master/0657-robot-return-to-origin) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Jyothi-ch-tech/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+## Math
+|  |
+| ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Jyothi-ch-tech/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Jyothi-ch-tech/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 <!---LeetCode Topics End-->
