@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Jyothi-ch-tech/DSA/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Jyothi-ch-tech/DSA/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Jyothi-ch-tech/DSA/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Jyothi-ch-tech/DSA/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
