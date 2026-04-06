@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Jyothi-ch-tech/DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Jyothi-ch-tech/DSA/tree/master/0152-maximum-product-subarray) |
+| [0874-walking-robot-simulation](https://github.com/Jyothi-ch-tech/DSA/tree/master/0874-walking-robot-simulation) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jyothi-ch-tech/DSA/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Jyothi-ch-tech/DSA/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/Jyothi-ch-tech/DSA/tree/master/0299-bulls-and-cows) |
+| [0874-walking-robot-simulation](https://github.com/Jyothi-ch-tech/DSA/tree/master/0874-walking-robot-simulation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Jyothi-ch-tech/DSA/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Jyothi-ch-tech/DSA/tree/master/0874-walking-robot-simulation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Jyothi-ch-tech/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Math
 |  |
