@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Jyothi-ch-tech/DSA/tree/master/0152-maximum-product-subarray) |
 | [0874-walking-robot-simulation](https://github.com/Jyothi-ch-tech/DSA/tree/master/0874-walking-robot-simulation) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jyothi-ch-tech/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
