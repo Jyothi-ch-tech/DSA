@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Jyothi-ch-tech/DSA/tree/master/0069-sqrtx) |
+| [0223-rectangle-area](https://github.com/Jyothi-ch-tech/DSA/tree/master/0223-rectangle-area) |
 | [0367-valid-perfect-square](https://github.com/Jyothi-ch-tech/DSA/tree/master/0367-valid-perfect-square) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Jyothi-ch-tech/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Jyothi-ch-tech/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Jyothi-ch-tech/DSA/tree/master/0061-rotate-list) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Jyothi-ch-tech/DSA/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
