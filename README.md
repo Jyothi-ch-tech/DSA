@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Jyothi-ch-tech/DSA/tree/master/0152-maximum-product-subarray) |
 | [0397-integer-replacement](https://github.com/Jyothi-ch-tech/DSA/tree/master/0397-integer-replacement) |
+| [0788-rotated-digits](https://github.com/Jyothi-ch-tech/DSA/tree/master/0788-rotated-digits) |
 | [1143-longest-common-subsequence](https://github.com/Jyothi-ch-tech/DSA/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Jyothi-ch-tech/DSA/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/Jyothi-ch-tech/DSA/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Jyothi-ch-tech/DSA/tree/master/0367-valid-perfect-square) |
+| [0788-rotated-digits](https://github.com/Jyothi-ch-tech/DSA/tree/master/0788-rotated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Jyothi-ch-tech/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Jyothi-ch-tech/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Jyothi-ch-tech/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
