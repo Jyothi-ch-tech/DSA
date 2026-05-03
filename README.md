@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Jyothi-ch-tech/DSA/tree/master/0177-nth-highest-salary) |
+| [0182-duplicate-emails](https://github.com/Jyothi-ch-tech/DSA/tree/master/0182-duplicate-emails) |
 ## String Matching
 |  |
 | ------- |
