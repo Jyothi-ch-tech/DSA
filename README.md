@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/Jyothi-ch-tech/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Jyothi-ch-tech/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1861-rotating-the-box](https://github.com/Jyothi-ch-tech/DSA/tree/master/1861-rotating-the-box) |
 | [1929-concatenation-of-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/1929-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Jyothi-ch-tech/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Jyothi-ch-tech/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Jyothi-ch-tech/DSA/tree/master/1768-merge-strings-alternately) |
+| [1861-rotating-the-box](https://github.com/Jyothi-ch-tech/DSA/tree/master/1861-rotating-the-box) |
 ## String
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Jyothi-ch-tech/DSA/tree/master/0048-rotate-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jyothi-ch-tech/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1861-rotating-the-box](https://github.com/Jyothi-ch-tech/DSA/tree/master/1861-rotating-the-box) |
 ## Divide and Conquer
 |  |
 | ------- |
