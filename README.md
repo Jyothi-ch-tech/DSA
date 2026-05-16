@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0397-integer-replacement](https://github.com/Jyothi-ch-tech/DSA/tree/master/0397-integer-replacement) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Jyothi-ch-tech/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2595-number-of-even-and-odd-bits](https://github.com/Jyothi-ch-tech/DSA/tree/master/2595-number-of-even-and-odd-bits) |
 ## Stack
 |  |
 | ------- |
