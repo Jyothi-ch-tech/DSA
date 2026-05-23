@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Jyothi-ch-tech/DSA/tree/master/0441-arranging-coins) |
 | [0788-rotated-digits](https://github.com/Jyothi-ch-tech/DSA/tree/master/0788-rotated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Jyothi-ch-tech/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jyothi-ch-tech/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Jyothi-ch-tech/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2413-smallest-even-multiple](https://github.com/Jyothi-ch-tech/DSA/tree/master/2413-smallest-even-multiple) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Jyothi-ch-tech/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Jyothi-ch-tech/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Jyothi-ch-tech/DSA/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0092-reverse-linked-list-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jyothi-ch-tech/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Geometry
 |  |
