@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Jyothi-ch-tech/DSA/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Jyothi-ch-tech/DSA/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Jyothi-ch-tech/DSA/tree/master/1768-merge-strings-alternately) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Jyothi-ch-tech/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Jyothi-ch-tech/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Jyothi-ch-tech/DSA/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Jyothi-ch-tech/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jyothi-ch-tech/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
