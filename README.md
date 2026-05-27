@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Jyothi-ch-tech/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2540-minimum-common-value](https://github.com/Jyothi-ch-tech/DSA/tree/master/2540-minimum-common-value) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jyothi-ch-tech/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Jyothi-ch-tech/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Jyothi-ch-tech/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Jyothi-ch-tech/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jyothi-ch-tech/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sorting
 |  |
 | ------- |
