@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jyothi-ch-tech/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jyothi-ch-tech/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/1470-shuffle-the-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Jyothi-ch-tech/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/Jyothi-ch-tech/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jyothi-ch-tech/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Jyothi-ch-tech/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Jyothi-ch-tech/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Jyothi-ch-tech/DSA/tree/master/0242-valid-anagram) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Jyothi-ch-tech/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Counting
 |  |
 | ------- |
