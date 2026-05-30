@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jyothi-ch-tech/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jyothi-ch-tech/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jyothi-ch-tech/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Jyothi-ch-tech/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Jyothi-ch-tech/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/Jyothi-ch-tech/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Jyothi-ch-tech/DSA/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/Jyothi-ch-tech/DSA/tree/master/0874-walking-robot-simulation) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Jyothi-ch-tech/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Jyothi-ch-tech/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Jyothi-ch-tech/DSA/tree/master/0456-132-pattern) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Jyothi-ch-tech/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Matrix
 |  |
