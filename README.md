@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jyothi-ch-tech/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/Jyothi-ch-tech/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Jyothi-ch-tech/DSA/tree/master/0404-sum-of-left-leaves) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Jyothi-ch-tech/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Heap (Priority Queue)
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Jyothi-ch-tech/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jyothi-ch-tech/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Jyothi-ch-tech/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Jyothi-ch-tech/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Jyothi-ch-tech/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
@@ -270,10 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Jyothi-ch-tech/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jyothi-ch-tech/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Jyothi-ch-tech/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Jyothi-ch-tech/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Jyothi-ch-tech/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Jyothi-ch-tech/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Jyothi-ch-tech/DSA/tree/master/0404-sum-of-left-leaves) |
 ## Monotonic Stack
 |  |
