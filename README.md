@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jyothi-ch-tech/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2540-minimum-common-value](https://github.com/Jyothi-ch-tech/DSA/tree/master/2540-minimum-common-value) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jyothi-ch-tech/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Jyothi-ch-tech/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Jyothi-ch-tech/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Jyothi-ch-tech/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jyothi-ch-tech/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Jyothi-ch-tech/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sorting
 |  |
