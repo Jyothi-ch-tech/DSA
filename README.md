@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Jyothi-ch-tech/DSA/tree/master/0397-integer-replacement) |
 | [0788-rotated-digits](https://github.com/Jyothi-ch-tech/DSA/tree/master/0788-rotated-digits) |
 | [1143-longest-common-subsequence](https://github.com/Jyothi-ch-tech/DSA/tree/master/1143-longest-common-subsequence) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jyothi-ch-tech/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jyothi-ch-tech/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Jyothi-ch-tech/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Jyothi-ch-tech/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Jyothi-ch-tech/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
