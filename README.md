@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Jyothi-ch-tech/DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Jyothi-ch-tech/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Jyothi-ch-tech/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Jyothi-ch-tech/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jyothi-ch-tech/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Jyothi-ch-tech/DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Jyothi-ch-tech/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Jyothi-ch-tech/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Jyothi-ch-tech/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jyothi-ch-tech/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Jyothi-ch-tech/DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Jyothi-ch-tech/DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Jyothi-ch-tech/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Jyothi-ch-tech/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
