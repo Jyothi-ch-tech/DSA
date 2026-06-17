@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Jyothi-ch-tech/DSA/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Jyothi-ch-tech/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Jyothi-ch-tech/DSA/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/Jyothi-ch-tech/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0874-walking-robot-simulation](https://github.com/Jyothi-ch-tech/DSA/tree/master/0874-walking-robot-simulation) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jyothi-ch-tech/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jyothi-ch-tech/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Jyothi-ch-tech/DSA/tree/master/0152-maximum-product-subarray) |
 | [0397-integer-replacement](https://github.com/Jyothi-ch-tech/DSA/tree/master/0397-integer-replacement) |
+| [0746-min-cost-climbing-stairs](https://github.com/Jyothi-ch-tech/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Jyothi-ch-tech/DSA/tree/master/0788-rotated-digits) |
 | [1143-longest-common-subsequence](https://github.com/Jyothi-ch-tech/DSA/tree/master/1143-longest-common-subsequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Jyothi-ch-tech/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
