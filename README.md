@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Jyothi-ch-tech/DSA/tree/master/0409-longest-palindrome) |
+| [0434-number-of-segments-in-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Jyothi-ch-tech/DSA/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Jyothi-ch-tech/DSA/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0796-rotate-string) |
