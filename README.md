@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jyothi-ch-tech/DSA/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Jyothi-ch-tech/DSA/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Jyothi-ch-tech/DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Jyothi-ch-tech/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Jyothi-ch-tech/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Jyothi-ch-tech/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Jyothi-ch-tech/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jyothi-ch-tech/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Jyothi-ch-tech/DSA/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Jyothi-ch-tech/DSA/tree/master/0223-rectangle-area) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Jyothi-ch-tech/DSA/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/Jyothi-ch-tech/DSA/tree/master/0397-integer-replacement) |
 ## Enumeration
 |  |
