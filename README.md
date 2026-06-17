@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jyothi-ch-tech/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Jyothi-ch-tech/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/Jyothi-ch-tech/DSA/tree/master/3838-weighted-word-mapping) |
+| [3903-smallest-stable-index-i](https://github.com/Jyothi-ch-tech/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -387,4 +388,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Jyothi-ch-tech/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/Jyothi-ch-tech/DSA/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
