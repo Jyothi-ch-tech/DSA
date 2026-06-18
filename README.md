@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Jyothi-ch-tech/DSA/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Jyothi-ch-tech/DSA/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/Jyothi-ch-tech/DSA/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/Jyothi-ch-tech/DSA/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Jyothi-ch-tech/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Jyothi-ch-tech/DSA/tree/master/0441-arranging-coins) |
 | [0788-rotated-digits](https://github.com/Jyothi-ch-tech/DSA/tree/master/0788-rotated-digits) |
@@ -404,4 +405,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Jyothi-ch-tech/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/Jyothi-ch-tech/DSA/tree/master/3903-smallest-stable-index-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Jyothi-ch-tech/DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Jyothi-ch-tech/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
