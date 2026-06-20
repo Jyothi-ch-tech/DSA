@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Jyothi-ch-tech/DSA/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Jyothi-ch-tech/DSA/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Jyothi-ch-tech/DSA/tree/master/0196-delete-duplicate-emails) |
+| [1683-invalid-tweets](https://github.com/Jyothi-ch-tech/DSA/tree/master/1683-invalid-tweets) |
 ## String Matching
 |  |
 | ------- |
