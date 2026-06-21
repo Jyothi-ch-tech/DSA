@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Jyothi-ch-tech/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/Jyothi-ch-tech/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jyothi-ch-tech/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/Jyothi-ch-tech/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Jyothi-ch-tech/DSA/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Jyothi-ch-tech/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jyothi-ch-tech/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Jyothi-ch-tech/DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jyothi-ch-tech/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Jyothi-ch-tech/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/Jyothi-ch-tech/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Jyothi-ch-tech/DSA/tree/master/1840-maximum-building-height) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jyothi-ch-tech/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Counting
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/Jyothi-ch-tech/DSA/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/Jyothi-ch-tech/DSA/tree/master/0409-longest-palindrome) |
+| [1833-maximum-ice-cream-bars](https://github.com/Jyothi-ch-tech/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1975-maximum-matrix-sum](https://github.com/Jyothi-ch-tech/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Jyothi-ch-tech/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jyothi-ch-tech/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jyothi-ch-tech/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Jyothi-ch-tech/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Queue
 |  |
 | ------- |
