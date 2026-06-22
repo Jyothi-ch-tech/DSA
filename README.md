@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Jyothi-ch-tech/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jyothi-ch-tech/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jyothi-ch-tech/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2351-first-letter-to-appear-twice](https://github.com/Jyothi-ch-tech/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/Jyothi-ch-tech/DSA/tree/master/2540-minimum-common-value) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jyothi-ch-tech/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jyothi-ch-tech/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Jyothi-ch-tech/DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Jyothi-ch-tech/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/Jyothi-ch-tech/DSA/tree/master/1768-merge-strings-alternately) |
+| [2351-first-letter-to-appear-twice](https://github.com/Jyothi-ch-tech/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Jyothi-ch-tech/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jyothi-ch-tech/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Jyothi-ch-tech/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Jyothi-ch-tech/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [2351-first-letter-to-appear-twice](https://github.com/Jyothi-ch-tech/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Jyothi-ch-tech/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Jyothi-ch-tech/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/Jyothi-ch-tech/DSA/tree/master/3866-first-unique-even-element) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Jyothi-ch-tech/DSA/tree/master/0397-integer-replacement) |
 | [0645-set-mismatch](https://github.com/Jyothi-ch-tech/DSA/tree/master/0645-set-mismatch) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Jyothi-ch-tech/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2351-first-letter-to-appear-twice](https://github.com/Jyothi-ch-tech/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Jyothi-ch-tech/DSA/tree/master/2595-number-of-even-and-odd-bits) |
 ## Stack
 |  |
