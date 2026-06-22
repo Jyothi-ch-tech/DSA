@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jyothi-ch-tech/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Jyothi-ch-tech/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/Jyothi-ch-tech/DSA/tree/master/3838-weighted-word-mapping) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Jyothi-ch-tech/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/Jyothi-ch-tech/DSA/tree/master/3866-first-unique-even-element) |
 | [3903-smallest-stable-index-i](https://github.com/Jyothi-ch-tech/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jyothi-ch-tech/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jyothi-ch-tech/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Jyothi-ch-tech/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Jyothi-ch-tech/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/Jyothi-ch-tech/DSA/tree/master/3866-first-unique-even-element) |
 ## Dynamic Programming
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Jyothi-ch-tech/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Jyothi-ch-tech/DSA/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Jyothi-ch-tech/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/Jyothi-ch-tech/DSA/tree/master/3866-first-unique-even-element) |
 ## Binary Search
 |  |
