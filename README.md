@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/Jyothi-ch-tech/DSA/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Jyothi-ch-tech/DSA/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/Jyothi-ch-tech/DSA/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/Jyothi-ch-tech/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Jyothi-ch-tech/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Jyothi-ch-tech/DSA/tree/master/0724-find-pivot-index) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Jyothi-ch-tech/DSA/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/Jyothi-ch-tech/DSA/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/Jyothi-ch-tech/DSA/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jyothi-ch-tech/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0874-walking-robot-simulation](https://github.com/Jyothi-ch-tech/DSA/tree/master/0874-walking-robot-simulation) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Jyothi-ch-tech/DSA/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0434-number-of-segments-in-a-string) |
+| [0500-keyboard-row](https://github.com/Jyothi-ch-tech/DSA/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Jyothi-ch-tech/DSA/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Jyothi-ch-tech/DSA/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0796-rotate-string) |
