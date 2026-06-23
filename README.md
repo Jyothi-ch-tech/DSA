@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Jyothi-ch-tech/DSA/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Jyothi-ch-tech/DSA/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/Jyothi-ch-tech/DSA/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/Jyothi-ch-tech/DSA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Jyothi-ch-tech/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Jyothi-ch-tech/DSA/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jyothi-ch-tech/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Jyothi-ch-tech/DSA/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Jyothi-ch-tech/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Jyothi-ch-tech/DSA/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/Jyothi-ch-tech/DSA/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jyothi-ch-tech/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1861-rotating-the-box](https://github.com/Jyothi-ch-tech/DSA/tree/master/1861-rotating-the-box) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Jyothi-ch-tech/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Jyothi-ch-tech/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jyothi-ch-tech/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/Jyothi-ch-tech/DSA/tree/master/0695-max-area-of-island) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Jyothi-ch-tech/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Heap (Priority Queue)
 |  |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Jyothi-ch-tech/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Jyothi-ch-tech/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jyothi-ch-tech/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/Jyothi-ch-tech/DSA/tree/master/0695-max-area-of-island) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -487,4 +491,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Jyothi-ch-tech/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Jyothi-ch-tech/DSA/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
