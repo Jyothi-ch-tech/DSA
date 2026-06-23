@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jyothi-ch-tech/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Jyothi-ch-tech/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Jyothi-ch-tech/DSA/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Jyothi-ch-tech/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Jyothi-ch-tech/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Heap (Priority Queue)
 |  |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jyothi-ch-tech/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Jyothi-ch-tech/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Jyothi-ch-tech/DSA/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Jyothi-ch-tech/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -498,4 +500,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Jyothi-ch-tech/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Jyothi-ch-tech/DSA/tree/master/0695-max-area-of-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Jyothi-ch-tech/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Jyothi-ch-tech/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
