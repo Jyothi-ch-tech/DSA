@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/Jyothi-ch-tech/DSA/tree/master/1861-rotating-the-box) |
 | [1929-concatenation-of-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Jyothi-ch-tech/DSA/tree/master/1975-maximum-matrix-sum) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Jyothi-ch-tech/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jyothi-ch-tech/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jyothi-ch-tech/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Jyothi-ch-tech/DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Jyothi-ch-tech/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/Jyothi-ch-tech/DSA/tree/master/1768-merge-strings-alternately) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Jyothi-ch-tech/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Jyothi-ch-tech/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Jyothi-ch-tech/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Jyothi-ch-tech/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Jyothi-ch-tech/DSA/tree/master/1840-maximum-building-height) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jyothi-ch-tech/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Counting
 |  |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jyothi-ch-tech/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jyothi-ch-tech/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Jyothi-ch-tech/DSA/tree/master/0169-majority-element) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Jyothi-ch-tech/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Linked List
 |  |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jyothi-ch-tech/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -462,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Jyothi-ch-tech/DSA/tree/master/0292-nim-game) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
