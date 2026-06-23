@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Jyothi-ch-tech/DSA/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Jyothi-ch-tech/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Jyothi-ch-tech/DSA/tree/master/0204-count-primes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/Jyothi-ch-tech/DSA/tree/master/0456-132-pattern) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Jyothi-ch-tech/DSA/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/Jyothi-ch-tech/DSA/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/Jyothi-ch-tech/DSA/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jyothi-ch-tech/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1861-rotating-the-box](https://github.com/Jyothi-ch-tech/DSA/tree/master/1861-rotating-the-box) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jyothi-ch-tech/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/Jyothi-ch-tech/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Jyothi-ch-tech/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Jyothi-ch-tech/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jyothi-ch-tech/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jyothi-ch-tech/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/Jyothi-ch-tech/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Jyothi-ch-tech/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jyothi-ch-tech/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Jyothi-ch-tech/DSA/tree/master/0257-binary-tree-paths) |
@@ -479,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Jyothi-ch-tech/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
