@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jyothi-ch-tech/DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jyothi-ch-tech/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jyothi-ch-tech/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Jyothi-ch-tech/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Jyothi-ch-tech/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Jyothi-ch-tech/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Jyothi-ch-tech/DSA/tree/master/0290-word-pattern) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Jyothi-ch-tech/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Jyothi-ch-tech/DSA/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Jyothi-ch-tech/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jyothi-ch-tech/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jyothi-ch-tech/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jyothi-ch-tech/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Jyothi-ch-tech/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jyothi-ch-tech/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Geometry
