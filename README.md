@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jyothi-ch-tech/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Jyothi-ch-tech/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Jyothi-ch-tech/DSA/tree/master/0204-count-primes) |
+| [0303-range-sum-query-immutable](https://github.com/Jyothi-ch-tech/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/Jyothi-ch-tech/DSA/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/Jyothi-ch-tech/DSA/tree/master/0463-island-perimeter) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Jyothi-ch-tech/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Jyothi-ch-tech/DSA/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Jyothi-ch-tech/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Jyothi-ch-tech/DSA/tree/master/2485-find-the-pivot-integer) |
@@ -512,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Jyothi-ch-tech/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Jyothi-ch-tech/DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
