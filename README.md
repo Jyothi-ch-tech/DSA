@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Jyothi-ch-tech/DSA/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Jyothi-ch-tech/DSA/tree/master/0196-delete-duplicate-emails) |
 | [1683-invalid-tweets](https://github.com/Jyothi-ch-tech/DSA/tree/master/1683-invalid-tweets) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Jyothi-ch-tech/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 ## String Matching
 |  |
 | ------- |
