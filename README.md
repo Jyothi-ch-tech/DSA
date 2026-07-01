@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Jyothi-ch-tech/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Jyothi-ch-tech/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2784-check-if-array-is-good](https://github.com/Jyothi-ch-tech/DSA/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jyothi-ch-tech/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jyothi-ch-tech/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Jyothi-ch-tech/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jyothi-ch-tech/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2351-first-letter-to-appear-twice](https://github.com/Jyothi-ch-tech/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/Jyothi-ch-tech/DSA/tree/master/2540-minimum-common-value) |
+| [2784-check-if-array-is-good](https://github.com/Jyothi-ch-tech/DSA/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jyothi-ch-tech/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jyothi-ch-tech/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Jyothi-ch-tech/DSA/tree/master/1840-maximum-building-height) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jyothi-ch-tech/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2784-check-if-array-is-good](https://github.com/Jyothi-ch-tech/DSA/tree/master/2784-check-if-array-is-good) |
 ## Counting
 |  |
 | ------- |
