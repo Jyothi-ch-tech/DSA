@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jyothi-ch-tech/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/Jyothi-ch-tech/DSA/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Jyothi-ch-tech/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jyothi-ch-tech/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Jyothi-ch-tech/DSA/tree/master/1390-four-divisors) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Jyothi-ch-tech/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Jyothi-ch-tech/DSA/tree/master/1840-maximum-building-height) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Jyothi-ch-tech/DSA/tree/master/2413-smallest-even-multiple) |
 | [2485-find-the-pivot-integer](https://github.com/Jyothi-ch-tech/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jyothi-ch-tech/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Jyothi-ch-tech/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Jyothi-ch-tech/DSA/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Jyothi-ch-tech/DSA/tree/master/2413-smallest-even-multiple) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Jyothi-ch-tech/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Database
