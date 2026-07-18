@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jyothi-ch-tech/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Jyothi-ch-tech/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Jyothi-ch-tech/DSA/tree/master/0204-count-primes) |
+| [0213-house-robber-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0213-house-robber-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Jyothi-ch-tech/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/Jyothi-ch-tech/DSA/tree/master/0456-132-pattern) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Jyothi-ch-tech/DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Jyothi-ch-tech/DSA/tree/master/0152-maximum-product-subarray) |
+| [0213-house-robber-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0213-house-robber-ii) |
 | [0397-integer-replacement](https://github.com/Jyothi-ch-tech/DSA/tree/master/0397-integer-replacement) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jyothi-ch-tech/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Jyothi-ch-tech/DSA/tree/master/0788-rotated-digits) |
