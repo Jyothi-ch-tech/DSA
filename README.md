@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Jyothi-ch-tech/DSA/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Jyothi-ch-tech/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Jyothi-ch-tech/DSA/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0788-rotated-digits](https://github.com/Jyothi-ch-tech/DSA/tree/master/0788-rotated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Jyothi-ch-tech/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jyothi-ch-tech/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jyothi-ch-tech/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jyothi-ch-tech/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0445-add-two-numbers-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Jyothi-ch-tech/DSA/tree/master/0456-132-pattern) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Jyothi-ch-tech/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jyothi-ch-tech/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jyothi-ch-tech/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jyothi-ch-tech/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0445-add-two-numbers-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jyothi-ch-tech/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Jyothi-ch-tech/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Jyothi-ch-tech/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
