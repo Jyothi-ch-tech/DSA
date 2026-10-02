@@ -550,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Jyothi-ch-tech/DSA/tree/master/0303-range-sum-query-immutable) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Jyothi-ch-tech/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
