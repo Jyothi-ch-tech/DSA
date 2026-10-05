@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Jyothi-ch-tech/DSA/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0213-house-robber-ii) |
 | [0397-integer-replacement](https://github.com/Jyothi-ch-tech/DSA/tree/master/0397-integer-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jyothi-ch-tech/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Jyothi-ch-tech/DSA/tree/master/0788-rotated-digits) |
 | [1143-longest-common-subsequence](https://github.com/Jyothi-ch-tech/DSA/tree/master/1143-longest-common-subsequence) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Jyothi-ch-tech/DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/Jyothi-ch-tech/DSA/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Jyothi-ch-tech/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0856-score-of-parentheses](https://github.com/Jyothi-ch-tech/DSA/tree/master/0856-score-of-parentheses) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/Jyothi-ch-tech/DSA/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/Jyothi-ch-tech/DSA/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Jyothi-ch-tech/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1975-maximum-matrix-sum](https://github.com/Jyothi-ch-tech/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Jyothi-ch-tech/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jyothi-ch-tech/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0445-add-two-numbers-ii](https://github.com/Jyothi-ch-tech/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Jyothi-ch-tech/DSA/tree/master/0456-132-pattern) |
+| [0678-valid-parenthesis-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Jyothi-ch-tech/DSA/tree/master/0856-score-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Jyothi-ch-tech/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -556,5 +560,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jyothi-ch-tech/DSA/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Jyothi-ch-tech/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Jyothi-ch-tech/DSA/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
